@@ -1,0 +1,34 @@
+div.earth {
+    background-size: cover;
+    background: url('../images/backgrounds/earth.jpg') no-repeat fixed 50%;
+}
+
+div.leaves {
+    background-size: cover;
+    background: url('../images/backgrounds/leaves.jpg') no-repeat fixed 50%;
+}
+
+div.rocks {
+    background-size: cover;
+    background: url('../images/backgrounds/rocks.jpg') no-repeat fixed 50%;
+}
+
+div.sky {
+    background-size: cover;
+    background: url('../images/backgrounds/sky.jpg') no-repeat fixed 50%;
+}
+
+div.water {
+    background-size: cover;
+    background: url('../images/backgrounds/water.jpg') no-repeat fixed 50%;
+}
+
+div.wood {
+    background-size: cover;
+    background: url('../images/backgrounds/wood.jpg') no-repeat fixed 50%;
+}
+
+div.group {
+    background-size: cover;
+    background: url('../images/backgrounds/groepsfoto-crop.jpg') no-repeat fixed 50%;
+}

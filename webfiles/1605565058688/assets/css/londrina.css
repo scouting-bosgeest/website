@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'LondrinaBlack-Regular';
+    src: url('../fonts/2DEC90_0_0.eot');
+    src: url('../fonts/2DEC90_0_0.eot%3F') format('embedded-opentype'), url('https://www.bosgeest.nl/webfiles/1605565058688/assets/fonts/2DEC90_0_0.woff2') format('woff2'), url('../fonts/2DEC90_0_0.woff') format('woff'), url('../fonts/2DEC90_0_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LondrinaBook-Regular';
+    src: url('../fonts/2DEC90_1_0.eot');
+    src: url('../fonts/2DEC90_1_0.eot%3F') format('embedded-opentype'), url('https://www.bosgeest.nl/webfiles/1605565058688/assets/fonts/2DEC90_1_0.woff2') format('woff2'), url('../fonts/2DEC90_1_0.woff') format('woff'), url('../fonts/2DEC90_1_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LondrinaOutline-Regular';
+    src: url('../fonts/2DEC90_2_0.eot');
+    src: url('../fonts/2DEC90_2_0.eot%3F') format('embedded-opentype'), url('https://www.bosgeest.nl/webfiles/1605565058688/assets/fonts/2DEC90_2_0.woff2') format('woff2'), url('../fonts/2DEC90_2_0.woff') format('woff'), url('../fonts/2DEC90_2_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LondrinaShadow-Regular';
+    src: url('../fonts/2DEC90_3_0.eot');
+    src: url('../fonts/2DEC90_3_0.eot%3F') format('embedded-opentype'), url('https://www.bosgeest.nl/webfiles/1605565058688/assets/fonts/2DEC90_3_0.woff2') format('woff2'), url('../fonts/2DEC90_3_0.woff') format('woff'), url('../fonts/2DEC90_3_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LondrinaSketche-Regular';
+    src: url('../fonts/2DEC90_4_0.eot');
+    src: url('../fonts/2DEC90_4_0.eot%3F') format('embedded-opentype'), url('https://www.bosgeest.nl/webfiles/1605565058688/assets/fonts/2DEC90_4_0.woff2') format('woff2'), url('../fonts/2DEC90_4_0.woff') format('woff'), url('../fonts/2DEC90_4_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LondrinaSolid-Regular';
+    src: url('../fonts/2DEC90_5_0.eot');
+    src: url('../fonts/2DEC90_5_0.eot%3F') format('embedded-opentype'), url('https://www.bosgeest.nl/webfiles/1605565058688/assets/fonts/2DEC90_5_0.woff2') format('woff2'), url('../fonts/2DEC90_5_0.woff') format('woff'), url('../fonts/2DEC90_5_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LondrinaThin-Regular';
+    src: url('../fonts/2DEC90_6_0.eot');
+    src: url('../fonts/2DEC90_6_0.eot%3F') format('embedded-opentype'), url('https://www.bosgeest.nl/webfiles/1605565058688/assets/fonts/2DEC90_6_0.woff2') format('woff2'), url('../fonts/2DEC90_6_0.woff') format('woff'), url('../fonts/2DEC90_6_0.ttf') format('truetype');
+}
