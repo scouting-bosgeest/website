@@ -32,3 +32,8 @@ div.group {
     background-size: cover;
     background: url('../images/backgrounds/groepsfoto-crop.jpg') no-repeat fixed 50%;
 }
+
+div.group {
+    background-size: cover;
+    background: url('../images/backgrounds/koningsmarkt.jpg') no-repeat fixed 50%;
+}
