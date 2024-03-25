@@ -2436,7 +2436,6 @@ div[data-toggle="popover"]:hover {
 #header #container-logo a {
     left: 1rem;
     position: absolute;
-    top: 50%;
     z-index: 1
 }
 
