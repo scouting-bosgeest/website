@@ -1,0 +1,20 @@
+{
+  "name": "bosgeest",
+  "version": "1.0.0",
+  "description": "Website van Scouting Bosgeest",
+  "scripts": {
+    "serve": "npx eleventy --serve",
+    "build": "npx eleventy"
+  },
+  "author": {
+    "name": "Oscar Farg",
+    "email": "oscar@bosgeest.nl"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@contentful/rich-text-html-renderer": "^16.3.5",
+    "contentful": "^10.8.6",
+    "dotenv": "^16.4.5"
+  }
+}
